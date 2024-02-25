@@ -129,7 +129,7 @@ All notable changes to the contracts will be documented in this file.
   `withdrawERC20`).
 - Multiple functions and variables are renamed:
   1. `fullExit` -> `requestFullExit`
-  1. `exit` -> `performExodus`
+  1. `exit` -> ` performExodus`
   1. `triggerExodusIfNeeded` -> `activateExodusMode`
   1. `balanceToWithdraw` -> `pendingBalance`
 
